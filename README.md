@@ -45,4 +45,5 @@ adımlarına önem veriyorum.
 
 - Flutter uygulamalarında test, CI ve yayın hazırlığı üzerine çalışıyorum.
 - RAG sistemlerinde cevap doğruluğu ve kaynak kalitesini ölçen değerlendirme akışları geliştiriyorum.
-- Açık kaynak projelerde küçük, doğrulanabilir hata düzeltmeleriyle katkı sağlıyorum.
+- Açık kaynak projelerde küçük, doğrulanabilir hata düzeltmeleriyle katkı sağlıyorum:
+  [LocalSend PR #3186](https://github.com/localsend/localsend/pull/3186).
